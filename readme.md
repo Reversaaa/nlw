@@ -4,7 +4,7 @@
 
 >Trilha explorer
 
-projeto construido no evento Next Level Weak da Rocketseat
+Projeto construido no evento Next Level Weak da Rocketseat
 
 
 [Clique aqui para acessar](https://reversaaa.github.io/nlw/)
